@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abrar</h1>
 
-<p align="center" margin-bottom="10px"> <img width="400px" height="400px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/streamline-icon-coding%40400x400%20(1).SVG?alt=media&token=f406bd95-78b0-4232-a37d-f880411ebb52" /> </p>
-
 <h3 align="center">I am a Web Developer | Machine Learning Engineer.</h3>
 
 <!-- <p align="left" margin-bottom="10px"> <img src="https://komarev.com/ghpvc/?username=abrarfahim19&label=Profile%20views&color=0e75b6&style=flat" alt="Abrar Fahim" /> </p> -->
