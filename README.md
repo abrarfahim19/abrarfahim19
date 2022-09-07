@@ -6,7 +6,7 @@
 
 <p margin-bottom="10px">&nbsp</p>
 
-- 🔭 I’m currently working on **Redux**
+- 🔭 I’m currently working on **React Native**
 
 - 🌱 I’m currently learning **Advance Python**
 
@@ -28,6 +28,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrarfahim19&show_icons=true&locale=en" alt="rejwan-ahamed" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrarfahim19&show_icons=true&locale=en" alt="imabrar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrarfahim19&" alt="rejwan-ahamed" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrarfahim19&" alt="imabrar" /></p>
