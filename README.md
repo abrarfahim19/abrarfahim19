@@ -31,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrarfahim19&show_icons=true&locale=en" alt="imabrar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrarfahim19&" alt="imabrar" /></p>
+<p><img align="center" src="https://badges.strrl.dev/visits/abrarfahim19/abrarfahim19?style=for-the-badge&color=eb1b0c" alt="imabrar" /></p>
